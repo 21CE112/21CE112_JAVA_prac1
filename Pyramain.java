@@ -1,4 +1,4 @@
-/*This program is created by Aryaan Rabara
+/*This program is created by Aryaan Rabara 21ce112
 **Aim:Display numbers in a pyramid pattern.
 */
 
@@ -28,6 +28,6 @@ public class Pyramain {
             }
             System.out.println("\n");
         }
-        System.out.println("This program is created by Aryaan Rabara");
+        System.out.println("This program is created by Aryaan Rabara 21ce112");
     }
 }
